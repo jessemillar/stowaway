@@ -1,14 +1,8 @@
 <svg class="background">
-  <image id="mask" x="0" y="0" width="300" height="300" href="mask.png" load="sync" />
-
-  <svg x="80" y="200">
-  </svg>
-
-  <svg x="70" y="260">
-  </svg>
-
-  <svg x="152" y="260">
-  </svg>
-
   <image id="eyes" x="0" y="0" width="300" height="300" href="eyes.png" load="sync" />
+  <text id="hoursLabel" class="timeLabel" x="72" y="164" />
+  <text id="minutesLabel" class="timeLabel" x="225" y="164" />
+  <image id="mask" x="0" y="0" width="300" height="300" href="mask.png" load="sync" />
+  <text id="dateLabel" class="smallTimeLabel" x="0" y="25" />
+  <text id="stepsLabel" class="smallTimeLabel" x="300" y="25" />
 </svg>

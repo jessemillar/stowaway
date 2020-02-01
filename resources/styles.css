@@ -2,12 +2,25 @@
   viewport-fill: black;
 }
 
-#myLabel {
-  font-size: 80;
-  font-family: System-Bold;
-  text-length: 32;
+.timeLabel {
+  font-size: 100;
+  font-family: Tungsten-Medium;
+  text-length: 2;
   text-anchor: middle;
-  x: 50%;
-  y: 50%+40;
-  fill: white;
+  fill: #dbdbdb;
+}
+
+.smallTimeLabel {
+  font-size: 35;
+  font-family: Tungsten-Medium;
+  fill: #dbdbdb;
+  text-length: 8;
+}
+
+#dateLabel {
+  text-anchor: start;
+}
+
+#stepsLabel {
+  text-anchor: end;
 }

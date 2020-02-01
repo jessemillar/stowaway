@@ -1,31 +1,27 @@
 {
-  "name": "stowaway",
-  "version": "0.1.0",
-  "private": true,
-  "license": "UNLICENSED",
-  "devDependencies": {
-    "@fitbit/sdk": "~4.0.1",
-    "@fitbit/sdk-cli": "^1.7.0"
-  },
   "fitbit": {
-    "appUUID": "7a8dec20-4bcb-415d-bcac-02ef7fc8de22",
+    "appUUID": "5912615e-6cc3-4a04-969d-ce690f323e0f",
     "appType": "clockface",
     "appDisplayName": "Stowaway",
     "iconFile": "resources/icon.png",
-    "wipeColor": "#000000",
+    "wipeColor": "",
     "requestedPermissions": [
       "access_activity"
     ],
     "buildTargets": [
+      "higgs",
       "meson",
       "gemini",
       "mira"
     ],
-    "i18n": {},
+    "i18n": {
+      "en": {
+        "name": "Stowaway"
+      }
+    },
     "defaultLanguage": "en-US"
   },
-  "scripts": {
-    "build": "fitbit-build",
-    "debug": "fitbit"
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
   }
 }
