@@ -1,4 +1,4 @@
-[![Preview](dev/concept.png)](https://gallery.fitbit.com/details/7a8dec20-4bcb-415d-bcac-02ef7fc8de22)
+[![Preview](dev/concept.png)](https://gallery.fitbit.com/details/5912615e-6cc3-4a04-969d-ce690f323e0f)
 
 ## CLI Usage
 ```
