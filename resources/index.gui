@@ -1,32 +1,14 @@
 <svg class="background">
-  <image id="gengar" x="29" y="16" width="242" height="219" href="gengar.png" load="sync" />
+  <image id="mask" x="0" y="0" width="300" height="300" href="mask.png" load="sync" />
 
   <svg x="80" y="200">
-    <image id="hour-left" x="0" y="0" width="41" height="55" href="large-1.png" load="sync" />
-    <image id="hour-right" x="0" y="0" width="41" height="55" href="large-2.png" load="sync" />
-
-    <image id="minute-left" x="0" y="0" width="41" height="55" href="large-3.png" load="sync" />
-    <image id="minute-right" x="0" y="0" width="41" height="55" href="large-2.png" load="sync" />
-
-    <image id="colon" x="0" y="0" width="41" height="55" href="large-Colon.png" load="sync" />
   </svg>
 
   <svg x="70" y="260">
-    <image id="day" x="0" y="0" width="36" height="20" href="small-Fri.png" load="sync" />
-
-    <image id="date-1" x="32" y="2" width="15" height="21" href="small-1.png" load="sync" />
-    <image id="date-2" x="42" y="0" width="15" height="21" href="small-2.png" load="sync" />
-    <image id="date-3" x="52" y="2" width="15" height="21" href="small-Dash.png" load="sync" />
-    <image id="date-4" x="61" y="0" width="15" height="21" href="small-3.png" load="sync" />
-    <image id="date-5" x="70" y="2" width="15" height="21" href="small-0.png" load="sync" />
   </svg>
 
   <svg x="152" y="260">
-    <image id="steps-1" x="0" y="0" width="15" height="21" href="small-Dollar.png" load="sync" />
-    <image id="steps-2" x="22" y="2" width="15" height="21" href="small-1.png" load="sync" />
-    <image id="steps-3" x="33" y="0" width="15" height="21" href="small-2.png" load="sync" />
-    <image id="steps-4" x="44" y="2" width="15" height="21" href="small-3.png" load="sync" />
-    <image id="steps-5" x="54" y="0" width="15" height="21" href="small-4.png" load="sync" />
-    <image id="steps-6" x="65" y="2" width="15" height="21" href="small-5.png" load="sync" />
   </svg>
+
+  <image id="eyes" x="0" y="0" width="300" height="300" href="eyes.png" load="sync" />
 </svg>
