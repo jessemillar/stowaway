@@ -1,3 +1,5 @@
+[Watch the short here](https://youtu.be/2J07mmOlfGs).
+
 [![Preview](dev/concept.png)](https://gallery.fitbit.com/details/5912615e-6cc3-4a04-969d-ce690f323e0f)
 
 ## CLI Usage
